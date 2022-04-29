@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Text Shadow</title>
+</head>
+<link href="shadow.css" rel="stylesheet" type="text/css">
+<body>
+<span class="s1 s">S</span>
+<span class="s2 s">S</span>
+</body>
+</html>
